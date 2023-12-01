@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body bgcolor="lightgreen">
+		<h2>Create New CourseProject</h2>
+		<form action="createCourseProject" method="POST">
+			<pre>
+				Restaurant ID: <input type="text" name="restaurantId"/>
+				
+				Name: <input type="text" name="restaurantName"/>
+				
+				Cuisine: <select name="restaurantCuisine">
+					<option>SELECT</option>
+					<option>Indian</option>
+					<option>South Indian</option>
+					<option>Maharashtrian</option>
+					<option>Punjabi</option>
+					<option>Gujrathi</option>
+				</select>
+				
+				Branch Count: <input type="text" name="restaurantBranchCount"/>
+				
+				<input type="submit" value="CREATE"/>
+			</pre>
+		</form>
+	</body>
+</html>

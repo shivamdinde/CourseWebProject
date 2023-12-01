@@ -1,0 +1,13 @@
+TODO 3:
+		Create a main menu page that shows 2 Hyperlinks:
+			1. Create New Course
+			2. View Course
+		
+		When the 1st link is clicked, it should display another HTML for new course creation.
+		This page must accept information about the course and upon SUBMIT, it must add a new record into the
+		relevant database table. Display appropriate message after insertion.
+		(Use Drop down Combo for Provider)
+		
+		When the 2nd link is clicked, it should display another HTML for accepting Course ID.
+		When SUBMIT is clicked, it must display the remaining details of that course.
+		Display appropriate message if the entered ID is invalid.

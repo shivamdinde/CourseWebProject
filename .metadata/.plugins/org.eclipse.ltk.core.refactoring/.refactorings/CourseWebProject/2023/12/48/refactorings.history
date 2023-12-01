@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CourseWebProject/src/main/webapp/menu.html&apos; to &apos;Menu.html&apos;" description="Rename resource &apos;menu.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/menu.html" name="Menu.html" stamp="1701449198097" updateReferences="true"/>
+</session>

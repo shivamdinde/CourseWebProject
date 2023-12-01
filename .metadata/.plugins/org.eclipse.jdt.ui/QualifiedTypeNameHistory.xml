@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="CourseWeb.Utils.JdbcUtils"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="CourseWeb.Dao.DaoInterface"/>
+    <fullyQualifiedTypeName name="CourseWeb.beans.CourseProject"/>
+    <fullyQualifiedTypeName name="CourseWeb.Dao.CourseDao"/>
+</qualifiedTypeNameHistroy>
